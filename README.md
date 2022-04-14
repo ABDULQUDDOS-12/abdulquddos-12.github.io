@@ -1,2 +1,2 @@
-# ABDULQUDDOS-12.github.io
+# abdulquddos.github.io
 The website design for everyone
